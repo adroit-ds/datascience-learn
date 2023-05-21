@@ -1,5 +1,6 @@
 time_series_forecasting/models
 python_dashboards/models
+python_dashboards/data
 *.pkl
 *.csv
 models/
